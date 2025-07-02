@@ -1,0 +1,12 @@
+# Word e Office
+~$*.docx
+~$*.doc
+~$*.xlsx
+~$*.xls
+
+# Arquivos temporários genéricos
+*.tmp
+*.temp
+
+# Editor
+*.swp
