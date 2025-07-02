@@ -1,4 +1,4 @@
-# superni
+# database modeling projeto para faculdade
 
 #CENTRO UNIVERSITÁRIO UNIFECAF
 #GRADUAÇÃO EAD
